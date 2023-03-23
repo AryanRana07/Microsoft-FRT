@@ -4,7 +4,7 @@ G-Paradise is a platform where people can get all news related to games and all 
 
 G-Paradise is a platform where people can get all news related to games and all video game related events. The idea of 'G-PARADISE' (Gaming Paradise) is more than just a news website, it shows how the gaming world have evolved over the decades.
 
-## My web page: https://lively-sand-0ebeca410.1.azurestaticapps.net/
+## My web page: https://orange-bay-068a58e10.2.azurestaticapps.net/
 
 ## Screenshots:
 ![Screenshot (934)](https://user-images.githubusercontent.com/101477143/184162466-fb579247-0aa5-4ea5-b12b-09aceda66bf9.png)
