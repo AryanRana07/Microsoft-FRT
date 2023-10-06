@@ -1,10 +1,9 @@
 # Microsoft-FRT
-G-Paradise is a platform where people can get all news related to games and all video game related events. The idea of 'G-PARADISE' (Gaming Paradise) is more than just a news website, it shows how the gaming world has evolved over the decade. 
 ## FRT: Future Ready Talent Project by Aryan Rana
+G-Paradise is a platform where people can get all news related to games and all video game related events. The idea of 'G-PARADISE' (Gaming Paradise) is more than just a news website, it shows how the gaming world has evolved over the decade. 
 
-G-Paradise is a platform where people can get all news related to games and all video game related events. The idea of 'G-PARADISE' (Gaming Paradise) is more than just a news website, it shows how the gaming world have evolved over the decades.
-
-## My web page: https://orange-bay-068a58e10.2.azurestaticapps.net/
+## My web page: 
+https://orange-bay-068a58e10.2.azurestaticapps.net/
 
 ## Screenshots:
 ![Screenshot (934)](https://user-images.githubusercontent.com/101477143/184162466-fb579247-0aa5-4ea5-b12b-09aceda66bf9.png)
